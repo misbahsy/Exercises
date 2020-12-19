@@ -11,6 +11,6 @@ def test_solution(monkeypatch):
     
     import solution
     
-    assert ret_val == "Hexadecimal"
+    assert ret_val == "Boolean"
     
 
